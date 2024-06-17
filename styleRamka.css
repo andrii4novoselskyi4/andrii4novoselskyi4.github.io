@@ -1,0 +1,25 @@
+body {
+    background-color: #f4e28a; 
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-box {
+    padding: 20px;
+    font-size: 24px;
+    text-align: center;
+    background-color: #FFFFE0; 
+    border: 5px solid #f1c46c; 
+    box-shadow:
+        3px 3px 2px 2px #FF8C00, 
+        inset 5px 5px 0px 0px #FF8C00;
+}
